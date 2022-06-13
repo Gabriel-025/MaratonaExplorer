@@ -26,5 +26,5 @@
 - Display block vs inline
 
 
-
-![hoem](https://user-images.githubusercontent.com/78861515/173421580-0cddbac3-2097-41e1-b9b6-e82cd429d3fd.png)
+    Foto final!
+                ![hoem](https://user-images.githubusercontent.com/78861515/173421580-0cddbac3-2097-41e1-b9b6-e82cd429d3fd.png)
