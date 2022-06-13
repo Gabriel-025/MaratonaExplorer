@@ -27,5 +27,4 @@
 
 
 
-### imagem bola de cristal
-https://gist.githubusercontent.com/maykbrito/0acdf4ce919838ffed50915a31fc5b23/raw/6f4dd01ec3116428ec4c99255944cb9ac7927590/cristal-ball.svg
+![hoem](https://user-images.githubusercontent.com/78861515/173421580-0cddbac3-2097-41e1-b9b6-e82cd429d3fd.png)
